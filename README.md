@@ -3,7 +3,7 @@ This project is part of The Ultimate **React** Course on Udemy
 **Learnt: useState and state management**
 **Built with: React**
 
-live link:
+**Live link:**
 
 https://adrians90.github.io/travel-list/
 
